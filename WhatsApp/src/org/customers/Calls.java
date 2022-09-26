@@ -7,6 +7,7 @@ public class Calls {
 }
 	private void callHistory() {
 		System.out.println("total no of calls");
+		System.out.println("total calls ");
 }
 	
 	
